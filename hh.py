@@ -1,0 +1,16 @@
+import os
+import getpass
+
+try:
+    ll=[1,2,3,4,5,6,7,8,9]
+    for i in range(22):
+        print(ll[i])
+
+except:
+    IndexError
+
+
+
+
+
+print(getpass.getuser())
